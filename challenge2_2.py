@@ -1,5 +1,5 @@
-#how this solution works: basecally I figuered out the formulas with which you can calulate an outer gear gear_radius, based on 
-#an inner gear gear_radius (one formula for the left outer gear, on for the right outer gear), than i just set them equal like that:
+#how this solution works: basically I figuered out the formulas with which you can calulate an outer gear gear_radius, based on 
+#an inner gear gear_radius (one formula for the left outer gear, on for the right outer gear), then i just set them equal like that:
 #formula1=2*formula2 (2* because the left outer gear has to be double the size of the right outer gear) and solve for the variable.
 #for even numbers I additionally have the formula x+y = right_middel_gear_gear_radius-left_middle_gear_gear_radius, where x and y are the gear_radius
 #of the left middle gear and the right middle gear
